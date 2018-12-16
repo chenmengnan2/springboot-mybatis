@@ -16,11 +16,5 @@ public class EmpController {
     @RequestMapping("/getAll")
     public List<Emp> getAll(){
         return service.getAll();
-        
-        
-        
-        
-        
-        
     }
 }
