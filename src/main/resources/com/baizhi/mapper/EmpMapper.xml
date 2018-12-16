@@ -4,11 +4,4 @@
     <select id="queryAll" resultType="Emp">
         select * from emp
     </select>
-    
-    
-    
-    
-    
-    
-    
 </mapper>
